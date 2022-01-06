@@ -2,4 +2,11 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Ridhan Fadhilah</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">"""Hi, my name is Fadhil.
+\n\nI love dog.
+\n\nThe kind that is alive and be happy all the time.
+\n\nDogs love to run and playing around with full of love.
+\n\nIt can be a really loyal friend to you.
+\n\nI'm also love to play a guitar and listen to acoustics song.
+\n\nI'm a new programmer who curious about Kotlin programming and Android Development.\n\n"""</string>
 </resources>
